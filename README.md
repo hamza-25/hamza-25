@@ -32,6 +32,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-25&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamza-25&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamza-25&theme=radical)
+![Hamza's Stars](https://img.shields.io/github/stars/hamza-25?affiliations=OWNER&style=social)
+![Hamza's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hamza-25&theme=radical)
+
 
 ---
 
