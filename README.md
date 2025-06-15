@@ -22,7 +22,7 @@
 
 ## 📌 Highlight Projects
 - 🛒 **Matjarify** — Full e-commerce backend with store filtering, CSRF protection, Redis caching  
-- ⚙️ **NeedJS-CLI** — CLI tool that scaffolds secure Express apps with JWT auth  
+- ⚙️ **NeedJS-CLI** — serve to save time and reduce repetitive work during build nodeJs project. 
 - 📄 **Payments Integration** — I build and deploy online websites that demonstrate payments using test cards from Stripe and PayPal, including PayPal credentials.
 
 ---
@@ -30,6 +30,8 @@
 ## 📈 GitHub Stats
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-25&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-25&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamza-25&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=hamza-25&theme=radical)
 
 ---
 
