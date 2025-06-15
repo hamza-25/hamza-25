@@ -14,16 +14,16 @@
 ---
 
 ## 🚀 Tech Stack
-`Node.js` `Express` `Sequelize` `MySQL` `Redis` `Docker` `GitHub Actions`  
+`Node.js` `Express` `Sequelize` `MySQL` `Mongodb` `Redis` `Docker` `GitHub Actions`  `Python` `Flask`
 `HTML` `CSS` `Tailwind` `Next.js` (learning...)  
-`Ubuntu` `Nginx` `Shell Scripting`
+`Ubuntu` `Nginx` `Shell Scripting` `C` `Typescript`
 
 ---
 
 ## 📌 Highlight Projects
 - 🛒 **Matjarify** — Full e-commerce backend with store filtering, CSRF protection, Redis caching  
 - ⚙️ **NeedJS-CLI** — CLI tool that scaffolds secure Express apps with JWT auth  
-- 📄 **PDF Invoice Generator SaaS** — Non-technical-friendly PDF generator with hash security
+- 📄 **Payments Integration** — I build and deploy online websites that demonstrate payments using test cards from Stripe and PayPal, including PayPal credentials.
 
 ---
 
@@ -34,6 +34,6 @@
 ---
 
 ## 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/YOUR_NAME)  
-- [Upwork](https://www.upwork.com/freelancers/~YOUR_ID)  
-- Email: yourname@gmail.com  
+- [LinkedIn](https://linkedin.com/in/hamza-ichaoui)  
+- [Upwork](https://www.upwork.com/freelancers/~01fc789fd8ae08ae69)  
+- Email: me677499@gmail.com  
