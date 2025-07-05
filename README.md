@@ -38,4 +38,4 @@
 ## 📬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/hamza-ichaoui)  
 - [Upwork](https://www.upwork.com/freelancers/~01fc789fd8ae08ae69)  
-- Email: me677499@gmail.com  
+- Email: contact@hamzaichaoui.dev
