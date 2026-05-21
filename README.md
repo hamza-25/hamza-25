@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Tech Stack
-`Node.js` `Express` `Sequelize` `MySQL` `Mongodb` `Redis` `Docker` `GitHub Actions`  `Python` `Flask`
+`Node.js` `Express` `NestJs` `Sequelize` `MySQL` `Mongodb` `Redis` `Docker` `GitHub Actions`  `Python` `Flask`
 `HTML` `CSS` `Tailwind` `Next.js`
 `Ubuntu` `Nginx` `Shell Scripting` `C` `Typescript`
 
